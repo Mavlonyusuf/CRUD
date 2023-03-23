@@ -1,0 +1,1 @@
+import{u as e,a as s,o,_ as a,b as n,c,d as r}from"./index-d523d528.js";const u={setup(){const t=e();s(),o(()=>{t.push({path:"/contacts"})})}},_=r("h1",{className:"text-3xl font-bold underline"},"This is Contacts Page",-1),d=[_];function p(t,i,l,f,h,m){return n(),c("div",null,d)}const $=a(u,[["render",p]]);export{$ as default};

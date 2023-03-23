@@ -1,0 +1,1 @@
+import{_ as e,b as s,c as t,d as o}from"./index-d523d528.js";const r={},a={class:"absolute -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2"},n=o("div",{class:"w-48 h-48 rounded-full animate-spin border-y-8 border-solid border-fuchsia-600 border-t-transparent shadow-md"},null,-1),c=[n];function d(_,i,l,p,f,u){return s(),t("div",a,c)}const b=e(r,[["render",d]]);export{b as S};
